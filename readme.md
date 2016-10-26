@@ -21,6 +21,8 @@ Tomorrow's lesson involves learning how to correctly set up a search in your And
   - id (INTEGER)
   - name (TEXT)
   - age (INT)
+  
+**Test your code!**
 
 
 #### Deliverable
