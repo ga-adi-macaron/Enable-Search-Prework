@@ -17,7 +17,9 @@ Tomorrow's lesson involves learning how to correctly set up a search in your And
 
 - Create your own class extending SQLiteOpenHelper
 - Complete the setup for SQLiteOpenHelper, including **onCreate**, **onUpgrade**, **singleton code**, and **any constants you might need**.
-- Create a table with the following columns:
+- Create a database named **user_info.db**
+- Create a table called **people**
+- The table should have the following columns:
   - id (INTEGER)
   - name (TEXT)
   - age (INT)
